@@ -1,0 +1,6 @@
+# pycharm
+out
+*.ipr
+*.iws
+*.iml
+.idea
